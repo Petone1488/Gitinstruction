@@ -81,6 +81,10 @@
         master
         PS C:\Users\home\Desktop\Git instuction домашка>
 
+Для перехода между разными ветками используем команду ***git branch "Name"***, где "Name" имя ветки на которую мы хотим перейти.
+
+
+
 
 
 
