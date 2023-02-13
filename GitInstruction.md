@@ -1,4 +1,4 @@
-# Работа с Git и GitHub
+# Работа с Git и GitHub GitHubGitHubGitHubGitHubGitHub
 ***
 ## 1. Установка Git. 
 Загружаем последнюю версию ***Git*** с сайта: <https://git-scm.com/downloads.>
